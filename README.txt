@@ -1,0 +1,1 @@
+This is a totally awesome course about Git!
